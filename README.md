@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Debarshi Dutta and I'm a MERN stack developer from India</p>
+<p align="left">My name is Debarshi Dutta and I'm a MERN stack developer from India.</p>
+<p>I am very much passionate about the whole JavaScript development eco-system since JavaScript is such a beautiful language.</p>
 
 ###
 
@@ -45,7 +46,7 @@
 
 ###
 
-<h2 align="left">Connect with me at</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
